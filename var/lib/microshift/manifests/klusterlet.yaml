@@ -6,5 +6,5 @@ spec:
   clusterName: microshift
   imagePullSecret: open-cluster-management-image-pull-credentials
   namespace: open-cluster-management-agent
-  registrationImagePullSpec: registry.redhat.io/rhacm2/registration-rhel8@sha256:181fb79defd3faf52a7630ca9088279b3e2c99271f4359dff52492d7c36cce06
-  workImagePullSpec: registry.redhat.io/rhacm2/work-rhel8@sha256:9369cb6714d0aa06655dbbf56caf12600be1677a680a2621b2be0299ebc19b39
+  registrationImagePullSpec: registry.redhat.io/rhacm2/registration-rhel8@sha256:f9871e12259fa2b0deb75abb0a9852fc8eb6ca6e66e920e63f5b7cccc038db64
+  workImagePullSpec: registry.redhat.io/rhacm2/work-rhel8@sha256:9481490b72e6cc4ec6646ac29ab3fea3a63bbd6f6bd6ea1ec1fe8f8af09e2646
